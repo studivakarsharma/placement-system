@@ -1,1 +1,1 @@
-this will contain the instructions of project 
+this will contain the instructions of project & Guide readers
